@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     //我是李四
     
+    //我是张三
+    
 }
 
 - (void)didReceiveMemoryWarning {
